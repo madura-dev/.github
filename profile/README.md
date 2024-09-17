@@ -3,7 +3,7 @@
 ## ✨ Apa yang Kami Lakukan?
 Madura Dev adalah komunitas pengembang dari Madura, berfokus pada pengembangan teknologi, berbagi pengetahuan, dan memperkuat jaringan profesional di bidang IT. Misi kami adalah memajukan ekosistem pengembangan perangkat lunak di Madura melalui kolaborasi dan inovasi.
 
-## 🌈 Panduan Kontribusi
+## 📚 Panduan Kontribusi
 Ingin terlibat dan berkontribusi? Kami sangat menghargai partisipasi dari komunitas! Kamu bisa:
 - Membuka *issue* atau *pull request* untuk perbaikan atau penambahan fitur.
 - Memberikan saran atau umpan balik.
